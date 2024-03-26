@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Antonio Prestes-Garcia <example@example.com>",
   "scripts": {
-    "start": "node server.mjs"
+    "start": "node server.mjs",
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
