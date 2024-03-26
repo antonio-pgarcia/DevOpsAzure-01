@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "author": "Antonio Prestes-Garcia <example@example.com>",
   "scripts": {
-    "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
-    "build": "webpack --config=Scripts/config/webpack.prod.js",
+    "start": "node server.mjs"
     "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
