@@ -16,7 +16,7 @@ pool: my-pc-pool
 steps:
 - task: UseNode@1
   inputs:
-    version: '16.x'
+    version: '12.x'
   displayName: 'Install Node.js'
 
 - script: |
