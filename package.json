@@ -1,7 +1,7 @@
 {
   "name": "azure-devops-test",
   "version": "1.0.0",
-  "author": "Antonio Prestes-Garcia <email@example.com>",
+  "author": "Antonio Prestes-Garcia <example@example.com>",
   "scripts": {
     "dev": "webpack --config=Scripts/config/webpack.dev.js --watch",
     "build": "webpack --config=Scripts/config/webpack.prod.js",
