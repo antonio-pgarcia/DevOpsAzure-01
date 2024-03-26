@@ -23,7 +23,7 @@ steps:
     npm install
   displayName: 'npm install'
 
-- start: |
+- script: |
     npm start
     wait-on: 'http://localhost:8000'
     config: 'baseUrl=http://localhost:8000'
